@@ -1,2 +1,2 @@
 # magic-next
-<h1> magicnext02.netlify.app</h1>
+<h1> <a href="magicnext02.netlify.app"><a/></h1>
